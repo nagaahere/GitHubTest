@@ -9,5 +9,6 @@ namespace GitHubTest
     public class File1
     {
         //master code
+        //B 1
     }
 }
